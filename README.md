@@ -1,13 +1,12 @@
  Hi there 👋
 
- I'm Ace
+ I'm Ace, A Mobile Developer With Flutter
 
 
 - 🔭 I’m currently working on building an ecommerce app
-- 🌱 I’m currently learning how to code with python
 - 👯 I’m looking forward to collaborate with anyone 
 - 🤔 I’m open to reviews on my any of my project
 - 💬 Ask me about projects
-- 📫 How to reach me(momentwithace@gmail.com)
+- 📫 How to reach me(augustineezekiel763@gmail.com)
 - ⚡ Fun fact: i love to drive 
 -->
